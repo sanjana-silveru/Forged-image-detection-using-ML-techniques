@@ -170,6 +170,4 @@ The model files allow the trained model to be loaded without retraining it from 
 GitHub:
 https://github.com/sanjana-silveru
 
-## 📄 Note
 
-This project was developed for educational and academic purposes to explore the application of machine learning and image-processing techniques in digital image forgery detection.
